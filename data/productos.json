@@ -1,0 +1,362 @@
+[
+  {
+    "nombre": "Arroz Integral",
+    "marca": "Tucapel",
+    "categoria": "en:cereales",
+    "energia_kcal_100g": 360,
+    "grasas_100g": 2.5,
+    "azucares_100g": 0.8,
+    "proteinas_100g": 8,
+    "precio": 1500,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 82,
+      "impacto_ambiental": 10,
+      "impacto_economico": 15,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000001"
+  },
+  {
+    "nombre": "Lentejas",
+    "marca": "Tres Montes",
+    "categoria": "en:legumes",
+    "energia_kcal_100g": 340,
+    "grasas_100g": 1.0,
+    "azucares_100g": 0.5,
+    "proteinas_100g": 24,
+    "precio": 1700,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 90,
+      "impacto_ambiental": 6,
+      "impacto_economico": 10,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000002"
+  },
+  {
+    "nombre": "Porotos Negros",
+    "marca": "Lucchetti",
+    "categoria": "en:legumes",
+    "energia_kcal_100g": 320,
+    "grasas_100g": 1.2,
+    "azucares_100g": 0.4,
+    "proteinas_100g": 21,
+    "precio": 1800,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 88,
+      "impacto_ambiental": 8,
+      "impacto_economico": 12,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000003"
+  },
+  {
+    "nombre": "Carne de Vacuno",
+    "marca": "Carnes del Sur",
+    "categoria": "en:meats",
+    "energia_kcal_100g": 250,
+    "grasas_100g": 20,
+    "azucares_100g": 0,
+    "proteinas_100g": 27,
+    "precio": 5000,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 42,
+      "impacto_ambiental": 75,
+      "impacto_economico": 30,
+      "salud": "Media"
+    },
+    "codigo_barras": "100000000004"
+  },
+  {
+    "nombre": "Pollo",
+    "marca": "Super Pollo",
+    "categoria": "en:meats",
+    "energia_kcal_100g": 220,
+    "grasas_100g": 14,
+    "azucares_100g": 0,
+    "proteinas_100g": 25,
+    "precio": 4200,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 65,
+      "impacto_ambiental": 40,
+      "impacto_economico": 20,
+      "salud": "Media"
+    },
+    "codigo_barras": "100000000005"
+  },
+  {
+    "nombre": "Hamburguesa Vegetal",
+    "marca": "NotCo",
+    "categoria": "en:plant-based-foods",
+    "energia_kcal_100g": 220,
+    "grasas_100g": 12,
+    "azucares_100g": 0.8,
+    "proteinas_100g": 18,
+    "precio": 3500,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 89,
+      "impacto_ambiental": 8,
+      "impacto_economico": 12,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000006"
+  },
+  {
+    "nombre": "Queso Fresco",
+    "marca": "Colún",
+    "categoria": "en:dairy-products",
+    "energia_kcal_100g": 290,
+    "grasas_100g": 20,
+    "azucares_100g": 1.5,
+    "proteinas_100g": 16,
+    "precio": 3200,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 55,
+      "impacto_ambiental": 50,
+      "impacto_economico": 25,
+      "salud": "Media"
+    },
+    "codigo_barras": "100000000007"
+  },
+  {
+    "nombre": "Leche Descremada",
+    "marca": "Soprole",
+    "categoria": "en:milk",
+    "energia_kcal_100g": 45,
+    "grasas_100g": 1,
+    "azucares_100g": 4.8,
+    "proteinas_100g": 3.4,
+    "precio": 1100,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 70,
+      "impacto_ambiental": 15,
+      "impacto_economico": 12,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000008"
+  },
+  {
+    "nombre": "Pan Integral",
+    "marca": "Ideal",
+    "categoria": "en:bread",
+    "energia_kcal_100g": 250,
+    "grasas_100g": 4,
+    "azucares_100g": 4,
+    "proteinas_100g": 9,
+    "precio": 1200,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 78,
+      "impacto_ambiental": 10,
+      "impacto_economico": 15,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000009"
+  },
+  {
+    "nombre": "Papas Fritas Bolsa",
+    "marca": "Lays",
+    "categoria": "en:snacks",
+    "energia_kcal_100g": 540,
+    "grasas_100g": 35,
+    "azucares_100g": 1,
+    "proteinas_100g": 5.6,
+    "precio": 1800,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 38,
+      "impacto_ambiental": 60,
+      "impacto_economico": 25,
+      "salud": "Baja"
+    },
+    "codigo_barras": "100000000010"
+  },
+  {
+    "nombre": "Aceite de Girasol",
+    "marca": "Cocinero",
+    "categoria": "en:oils",
+    "energia_kcal_100g": 884,
+    "grasas_100g": 100,
+    "azucares_100g": 0,
+    "proteinas_100g": 0,
+    "precio": 2600,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 58,
+      "impacto_ambiental": 45,
+      "impacto_economico": 20,
+      "salud": "Media"
+    },
+    "codigo_barras": "100000000011"
+  },
+  {
+    "nombre": "Agua Mineral",
+    "marca": "Andina",
+    "categoria": "en:waters",
+    "energia_kcal_100g": 0,
+    "grasas_100g": 0,
+    "azucares_100g": 0,
+    "proteinas_100g": 0,
+    "precio": 900,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 95,
+      "impacto_ambiental": 3,
+      "impacto_economico": 5,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000012"
+  },
+  {
+    "nombre": "Manzana Roja",
+    "marca": "Frutas Chile",
+    "categoria": "en:fruits",
+    "energia_kcal_100g": 52,
+    "grasas_100g": 0.2,
+    "azucares_100g": 10,
+    "proteinas_100g": 0.3,
+    "precio": 1300,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 92,
+      "impacto_ambiental": 5,
+      "impacto_economico": 8,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000013"
+  },
+  {
+    "nombre": "Tomate",
+    "marca": "Hortifrut",
+    "categoria": "en:vegetables",
+    "energia_kcal_100g": 18,
+    "grasas_100g": 0.2,
+    "azucares_100g": 2.6,
+    "proteinas_100g": 0.9,
+    "precio": 1000,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 93,
+      "impacto_ambiental": 4,
+      "impacto_economico": 6,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000014"
+  },
+  {
+    "nombre": "Plátano",
+    "marca": "Dole",
+    "categoria": "en:fruits",
+    "energia_kcal_100g": 89,
+    "grasas_100g": 0.3,
+    "azucares_100g": 12,
+    "proteinas_100g": 1.1,
+    "precio": 900,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 91,
+      "impacto_ambiental": 7,
+      "impacto_economico": 9,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000015"
+  },
+  {
+    "nombre": "Huevos de Campo",
+    "marca": "Santa Rosa",
+    "categoria": "en:eggs",
+    "energia_kcal_100g": 155,
+    "grasas_100g": 11,
+    "azucares_100g": 0,
+    "proteinas_100g": 13,
+    "precio": 3400,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 74,
+      "impacto_ambiental": 25,
+      "impacto_economico": 10,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000016"
+  },
+  {
+    "nombre": "Cereal de Avena",
+    "marca": "Quaker",
+    "categoria": "en:cereals",
+    "energia_kcal_100g": 370,
+    "grasas_100g": 6.9,
+    "azucares_100g": 1.2,
+    "proteinas_100g": 13,
+    "precio": 2800,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 87,
+      "impacto_ambiental": 8,
+      "impacto_economico": 12,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000017"
+  },
+  {
+    "nombre": "Yogurt Natural",
+    "marca": "Colún",
+    "categoria": "en:dairy-products",
+    "energia_kcal_100g": 60,
+    "grasas_100g": 2.5,
+    "azucares_100g": 5,
+    "proteinas_100g": 4.5,
+    "precio": 950,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 76,
+      "impacto_ambiental": 20,
+      "impacto_economico": 10,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000018"
+  },
+  {
+    "nombre": "Mantequilla",
+    "marca": "Soprole",
+    "categoria": "en:dairy-products",
+    "energia_kcal_100g": 720,
+    "grasas_100g": 81,
+    "azucares_100g": 0.6,
+    "proteinas_100g": 0.9,
+    "precio": 2700,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 40,
+      "impacto_ambiental": 70,
+      "impacto_economico": 25,
+      "salud": "Baja"
+    },
+    "codigo_barras": "100000000019"
+  },
+  {
+    "nombre": "Tofu",
+    "marca": "Tofú Natural",
+    "categoria": "en:vegetarian-food",
+    "energia_kcal_100g": 160,
+    "grasas_100g": 8,
+    "azucares_100g": 0.5,
+    "proteinas_100g": 15,
+    "precio": 2500,
+    "imagen": "",
+    "sostenibilidad": {
+      "puntaje_global": 91,
+      "impacto_ambiental": 5,
+      "impacto_economico": 10,
+      "salud": "Alta"
+    },
+    "codigo_barras": "100000000020"
+  }
+]
